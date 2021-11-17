@@ -1,11 +1,11 @@
-
+<!--
 <h1>Hello Im Chris Snell</h1>
 <h3>I am a Senior Solution Architect in the Maersk Modern Workplace Team.&nbsp;</h3>
 <p>Day to day i get involved in pretty much anything in the End User Compute area. I have many years of experience in client deployment using ConfigMgr and Intune/MEM. I have worked at a wide variety of organisations over the years which has given me a huge amount of exposure to all kinds of requirements and use cases. Transformations, Upgrades and Site wide rebuilds have all been my bread and butter including being at ground zero with Maersk when notPetya struck in 2017. Designing and Deploying a solution to quickly rebuild 50k laptops and throwing in a Windows 10 upgrade at the same time was probably the biggest challenge of my career.</p>
 <p>Today things are much less fraught and i enjoy defining the solutions and automation that will take Maersk devices into the future, part of which will allow Maersk to be a world leader of Container and Logisitc Services.</p>
 <p>&nbsp;</p>
 
-<!--
+
 **ChrisS-MMW/ChrisS-MMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
